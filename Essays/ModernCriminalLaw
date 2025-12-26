@@ -1,1 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title> Review of Modern Criminal Law </title>
+	<link rel="stylesheet" href="tufte.css"/>
+</head>
 
+<body>
+
+	<nav class=navbar id=header>
+		<a href="index.html">Home</a> ◦ 
+		<a href="Research.html">Research</a> ◦
+		<a href="Essays.html">Essays</a> ◦
+    <a href="Casetalks.html">Case Talks</a>
+	</nav>
+
+	<article>
+		<h1 id="Title">
+			Review of AP Simester (ed), Modern Criminal Law: Essays in Honour of GR Sullivan (Bloomsbury 2024)
+		</h1>	
+				
+		<section !Article>
+			<p>
+				Bob Sullivan’s scholarship ranges widely over the terrain of criminal law. 
+        It is fitting, then, that the chapters of this festschrift in his honour also cover a broad and eclectic set of topics. 
+        I’ll consider each chapter individually. 
+			</p>
+	    <p>
+      According to the House of Lords, following Hart and Honoré, one is not causally responsible for (the results of) another’s ‘free, deliberate, and informed’ (FDI) action.  
+      As <b>AP Simester</b> explains, this ‘FDI principle’ is unnecessary for causal non-responsibility: if my conduct triggers you to do something not FDI, but still unforeseeable or extraordinary, I remain causally non-responsible. 
+      Nor is the FDI principle sufficient for non-responsibility: if my conduct doesn’t operate via your FDI action, I remain a concurrent cause of the result. Nonetheless, the FDI principle is fundamental to the criminal law’s structure. 
+      While it is criminal for me to encourage you to murder, my encouragement does not cause death. I am an accomplice, not a principal. 
+      In recent years the Court of Appeal has repeatedly muddled their application of the FDI principle, holding defendants to be (potentially) causally responsible for deaths better understood as caused by doctors euthanising a patient, by a victim accidentally overdosing on diet pills, and by a victim voluntarily consuming alcohol.  
+      Simester helpfully identifies weaknesses in each case. He devotes less attention to the most difficult problem of all: When is an action sufficiently free, deliberate, and informed? 
+      While Simester briefly mentions ‘internal restrictions’ to the principle (really, its application criteria), an expansive reading of each term could destroy the FDI principle from the inside. 
+      </p>
+      <p>
+      I shoot at you. Does my culpability (and should my criminal liability) hinge on whether I hit or miss? 
+      And, if I hit, does it matter, causally, whether I intended to do so, was merely negligent, or even non-negligent? 
+      These are famous problems of moral luck. Like any well-trodden philosophical terrain, cross-cutting distinctions abound. 
+      One such distinction, crudely stated, is between mechanical and teleological accounts of causation. 
+      Mechanists focus on physical chain reactions, while teleologists focus on our reasons for acting. 
+      <b>Antje du Bois-Pedain</p>’s chapter plants a flag for teleology, hoisted on scaffolds provided by Samuel Pufendorf and Alan Brudner. 
+      The gist of the view is that human agency gives us a kind of ownership over outcomes. 
+      If an outcome was more agentic—paradigmatically, if it was intended—it is more easily attributable to a person.
+      (A view recognised, haphazardly, by the legal maxim that ‘intended consequences are never too remote’.) 
+      As with many philosophical problems, the account is unlikely to persuade anyone already opposed to all teleological accounts of causal attribution. 
+      But du Bois-Pedain’s account offers sophisticated genealogical foundations for those at least tempted by such views.
+      </p>
+      <p>
+      I shoot a mannequin, believing it to be a person. This is (properly) criminalised (as attempted murder). 
+      I am culpable because I believed that the target was human. 
+      There is no need to demonstrate that my belief was true, justified, or fulfilled any further Gettier condition. 
+      In other words, there is no need to prove knowledge. But the criminal law often purports to require a mens rea of knowledge, not merely belief. 
+      This is particularly problematic where one must ‘know’ future facts (eg that one’s conduct will assist a future crime), for it is controversial whether knowledge of such facts is even possible. 
+      Doctrine-specific reforms have been proposed to replace knowledge requirements with belief requirements (eg the Law Commission on complicity). 
+      Findlay Stark’s chapter analyses a range of doctrines in which knowledge is used, persuasively arguing that all would be better served by belief requirements. Law reformers should take note.
+      </p>
+      <p>
+      <!WORK IN PROGRESS>
+      
+      </p>
+
+    </section>
