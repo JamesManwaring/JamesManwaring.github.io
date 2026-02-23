@@ -1,1 +1,1 @@
-This is my personal website.
+This is the personal website of James Manwaring.
